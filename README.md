@@ -1,1 +1,1 @@
-# estrutura-projeto
+# Workshop - Estruturando um projeto do zero
